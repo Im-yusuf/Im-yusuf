@@ -1,6 +1,6 @@
 ## Hi, I'm Yusuf
 
-I'm a full-stack engineer at **Nacorm**, building three startup products, and a 2026 BSc Computer Science graduate of the **University of Leeds**.
+I'm a full-stack engineer, building startup products and my own personal projects, and a 2026 BSc Computer Science graduate of the **University of Leeds**.
 
 I mostly use TypeScript, Python, Node.js, React, Vue, Flutter and PostgreSQL, with Firebase on Google Cloud.
 
@@ -19,7 +19,6 @@ The code for these isn't public.
 - **DevHub**: won 1st place at the "AI in a Box" hackathon (May 2026). Point it at any GitHub repo and it writes the docs, flags security signals and answers questions about the code, while the repo runs sandboxed in the browser.
 - **My Booktown**: a gamified reading app for iOS and Android, built in Flutter, with 35,000+ users in its first two weeks.
 - **Baticore**: AI document analysis for construction tenders. I built the Gemini pipeline that turns multi-gigabyte tender packs into structured answers.
-- **ATMC**: a multi-tenant e-learning platform that I built alone, from the database schema to deployment.
 
 ### Elsewhere
 
